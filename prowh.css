@@ -1,0 +1,48 @@
+.container1{
+  display: flex;
+  display:-moz-flex;
+  display:-web-flex;
+  background-color: #00BFFF;
+  width:auto;
+  font-size: 30px;
+
+
+
+}
+.contain{
+  background-color: #00FA9A;
+  width:500px;
+  margin:30px;
+  text-align: center;
+  font-family: arial;
+  line-height: 25px;
+  font-size:20px;
+  float: left;
+}
+
+.contain2{
+  display: flex;
+  display:-moz-flex;
+  display:-web-flex;
+  background-color: #00FA9A;
+  width:750px;
+  font-size: 10px;
+  text-align: center;
+
+}
+.row .kanan li{
+  float: left;
+  list-style: none;
+  width: 15%;
+  line-height: 40px;
+
+}
+
+.row .kanan li a{
+  color: white;
+}
+
+.row .kanan li a:hover{
+  text-decoration: none;
+  color: blue;
+}
